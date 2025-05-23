@@ -55,6 +55,44 @@ Plugins are registered with the Plugin Manager and triggered automatically when 
 
 ---
 
+## 📦 Deliverables
+
+### ✅ Source Code Repository
+This repository contains the complete source code for the chatbot interface with meaningful, descriptive commit history.
+
+GitHub: [https://github.com/Akshitttttt/TruPulse-Ai-Chatbot-Assessment](https://github.com/Akshitttttt/TruPulse-Ai-Chatbot-Assessment)
+
+---
+
+## 📄 README Contents
+
+### ⚙️ Setup and Running Instructions
+
+#### Prerequisites
+- Node.js (v16+ recommended)
+- npm or yarn
+
+#### Steps to Run
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Akshitttttt/TruPulse-Ai-Chatbot-Assessment.git
+cd TruPulse-Ai-Chatbot-Assessment
+
+# 2. Install dependencies
+npm install
+# or
+yarn install
+
+# 3. Start the development server
+npm run dev
+# or
+yarn dev
+
+# 4. Open the app in browser
+http://localhost:5173
+
+
 
 
 
