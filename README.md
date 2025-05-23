@@ -3,6 +3,8 @@
 
 An AI-powered chatbot interface built with a **plugin-style architecture** that supports slash commands and natural language queries. Users can interact via commands like `/weather Paris`, `/calc 10 * 5`, or `/define innovation`, and receive dynamic responses rendered in rich UI cards.
 
+🔗 **Live Demo**: [https://project-3-gilt-psi.vercel.app](https://project-3-gilt-psi.vercel.app)
+
 ---
 
 ## 🚀 Features
